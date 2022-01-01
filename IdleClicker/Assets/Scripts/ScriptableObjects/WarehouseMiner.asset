@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de7b2573637d33647b1add491b247a66, type: 3}
+  m_Name: WarehouseMiner
+  m_EditorClassIdentifier: 
+  PanelTitle: Warehouse
+  PanelMinerIcon: {fileID: 2514988542215765323, guid: b2ae2e59c9f3e3c4ba1899f75ecb625a,
+    type: 3}
+  Location: 2
+  Stat1Title: Transporters
+  Stat2Title: Walk Speed
+  Stat3Title: Load Speed
+  Stat4Title: Transportation
+  Stat1Icon: {fileID: 1161201145128540330, guid: b2ae2e59c9f3e3c4ba1899f75ecb625a,
+    type: 3}
+  Stat2Icon: {fileID: 1202984965197363600, guid: b2ae2e59c9f3e3c4ba1899f75ecb625a,
+    type: 3}
+  Stat3Icon: {fileID: 7374845061861626600, guid: b2ae2e59c9f3e3c4ba1899f75ecb625a,
+    type: 3}
+  Stat4Icon: {fileID: -6931339683150358059, guid: b2ae2e59c9f3e3c4ba1899f75ecb625a,
+    type: 3}

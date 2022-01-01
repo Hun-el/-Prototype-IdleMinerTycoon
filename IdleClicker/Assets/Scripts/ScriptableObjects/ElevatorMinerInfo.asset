@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de7b2573637d33647b1add491b247a66, type: 3}
+  m_Name: ElevatorMinerInfo
+  m_EditorClassIdentifier: 
+  PanelTitle: Elevator
+  PanelMinerIcon: {fileID: 3220665290143086019, guid: b2ae2e59c9f3e3c4ba1899f75ecb625a,
+    type: 3}
+  Location: 1
+  Stat1Title: Load
+  Stat2Title: Move Speed
+  Stat3Title: Load Speed
+  Stat4Title: 
+  Stat1Icon: {fileID: 5543941588292853863, guid: b2ae2e59c9f3e3c4ba1899f75ecb625a,
+    type: 3}
+  Stat2Icon: {fileID: -1863859237976802683, guid: b2ae2e59c9f3e3c4ba1899f75ecb625a,
+    type: 3}
+  Stat3Icon: {fileID: 7576617242518483205, guid: b2ae2e59c9f3e3c4ba1899f75ecb625a,
+    type: 3}
+  Stat4Icon: {fileID: 0}
